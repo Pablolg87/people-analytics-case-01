@@ -1,4 +1,5 @@
-# People Analytics – Effective Onboarding Process
+# People Analytics Case I  
+## Effective Onboarding Process & Early Attrition Analysis
 
 [Open in Google Colab](https://colab.research.google.com/drive/1QyO5FboN6cUuVwkfvXT4uR5DHwdWedoU)
 
@@ -8,13 +9,9 @@ Early attrition during the probation period generates significant cost and signa
 
 This project evaluates onboarding effectiveness and its impact on employee exit during the first months.
 
----
-
 ## Objective
 
 Analyze whether onboarding quality indicators are associated with early attrition risk.
-
----
 
 ## Methodology
 
@@ -23,15 +20,11 @@ Analyze whether onboarding quality indicators are associated with early attritio
 - Relationship assessment between onboarding variables and exit
 - Predictive modeling (if applicable)
 
----
-
 ## Key Business Questions
 
 - Does onboarding quality influence probation turnover?
 - Are certain segments more vulnerable?
 - Can early risk signals be identified?
-
----
 
 ## Business Impact
 
@@ -39,8 +32,23 @@ Analyze whether onboarding quality indicators are associated with early attritio
 - Reduce early turnover
 - Enable proactive HR interventions
 
----
-
 ## Tech Stack
 
 Python, Pandas, Scikit-learn, Matplotlib
+
+## Results
+
+- Identification of key onboarding indicators linked to early attrition.
+- Segmentation of higher-risk employee groups during probation.
+- Clear analytical framework to support onboarding optimization decisions.
+
+## Ethical Considerations
+
+When applying People Analytics in HR contexts:
+
+- Avoid discriminatory bias in predictive modeling.
+- Ensure transparency in how insights are used.
+- Protect employee privacy and sensitive data.
+- Use analytics as decision-support, not decision-automation.
+
+Responsible AI in HR is critical for sustainable workforce management.
